@@ -1,0 +1,40 @@
+.sidebar{
+    background: #F0F8FF;
+    box-shadow: 4px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    width:9.26%;
+    height:40.36%;
+    text-align: center;
+    z-index: -1;
+    float: left;
+}
+
+.vajra{
+    margin-top:20%;
+    width:68.523%;
+    height:5.4%;
+ }
+
+.home-rectangle{
+    margin-top: 40%;
+    margin-left:30%;
+    width: 40%;
+    height: 5.4%;
+    border-radius: 10px;
+    border:3px solid black;
+    background-color: #004F95;
+}
+
+.home-logo{
+    margin-top: 30%;
+    width: 30px;
+    height: 27.155px;
+    background: var(--primary, #004F95);
+}
+
+.profile-logo, .user-logo, .department-logo,.ServiceRequest-logo,
+.incidents-logo,.FrameManual-logo,.FrameReports-logo,
+.warrantyStatus-logo,.contactUs-logo,.signOut-logo{
+    margin-top:26%;
+    width: 27.632px;
+    height: 31.081px;
+}

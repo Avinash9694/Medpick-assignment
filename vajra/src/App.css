@@ -1,0 +1,48 @@
+.App{
+  width: 1728px;
+  height: 2941px;
+  background: var(--light-blue-bg, #F0F8FF);
+  backdrop-filter: blur(2px);
+}
+
+.orange1{
+  position:absolute;
+  top:128px;
+  left:380px;
+  width: 646px;
+  height: 646px;
+  flex-shrink: 0;
+  border-radius: 646px;
+  opacity: 0.75;
+  background: #FFBE84;
+  filter: blur(250px);
+  z-index: -1;
+}
+
+.orange2{
+  position:absolute;
+  top:1518px;
+  left:202px;
+  width: 646px;
+  height: 646px;
+  flex-shrink: 0;
+  border-radius: 646px;
+  opacity: 0.5;
+  background: var(--secondary, #F78117);
+  filter: blur(250px);
+  z-index: -1;
+}
+
+.blue{
+  position:absolute;
+  top:827px;
+  left:1047px;
+  width: 646px;
+  height: 646px;
+  flex-shrink: 0;
+  border-radius: 646px;
+  opacity: 0.3499999940395355;
+  background: var(--primary, #004F95);
+  filter: blur(250px);
+  z-index: -1;
+}

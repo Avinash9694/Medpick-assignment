@@ -1,0 +1,10 @@
+.total-incident{
+    float: left;
+    width:85.4%;
+    margin-left:2.6%;
+    margin-top:6%;
+    height:26.35%;
+    border-radius: 30px;
+    background: #F8FBFF;
+    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+}
