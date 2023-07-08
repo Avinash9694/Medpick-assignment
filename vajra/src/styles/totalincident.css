@@ -70,3 +70,23 @@
     border-radius: 0px 5px 5px 0px;
     border: 1px solid #7A7A7A;
 }
+
+.total-incident-axis-names{
+    display: flex;
+    flex-direction: row;
+    margin-left: 38%;
+}
+.total-incident-axis-names-x-axis, .total-incident-axis-names-y-axis{
+    display: flex;
+    margin: 3px;
+    font-family: Futura Md BT;
+    font-size: 20px;
+}
+.total-incident-axis-names-x-axis-text1,.total-incident-axis-names-y-axis-text1{
+    margin-right: 5px;
+    color: #004F95;
+    font-weight: 400;
+}
+.total-incident-axis-names-y-axis-text1{
+    margin-left: 80px;
+}

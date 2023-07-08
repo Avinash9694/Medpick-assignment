@@ -28,6 +28,24 @@ const Totalincident = () => {
         </div>
       </div>
       <TotalIncidentData />
+      <div className="total-incident-axis-names">
+        <div className="total-incident-axis-names-x-axis">
+          <div className="total-incident-axis-names-x-axis-text1">
+            <p>X-Axis </p>
+          </div>
+          <div className="total-incident-axis-names-x-axis-text2">
+            <p> : Weeks</p>
+          </div>
+        </div>
+        <div className="total-incident-axis-names-y-axis">
+          <div className="total-incident-axis-names-y-axis-text1">
+            <p>Y-Axis</p>
+          </div>
+          <div className="total-incident-axis-names-y-axis-text2">
+            <p> : Incidents</p>
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

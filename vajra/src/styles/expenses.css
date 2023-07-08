@@ -18,3 +18,7 @@
     line-height: 73.373%;
     text-transform: capitalize;
 }
+
+.expenses-donut-chart{
+    width:100px
+}

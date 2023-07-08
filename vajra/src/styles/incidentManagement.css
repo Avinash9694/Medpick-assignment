@@ -24,7 +24,6 @@
     margin-left: 32px;
     width: 228px;
     height: 58px;
-    flex-shrink: 0;
     border-radius: 10px;
     background: var(--green, #29A343);
     box-shadow: 2px 3px 2px -2px rgba(0, 79, 149, 0.25);
@@ -49,7 +48,6 @@
     margin-top: -10px;
     width: 98px;
     height: 58px;
-    flex-shrink: 0;
     border-radius: 10px;
     background: var(--red, #E12C33);
     box-shadow: 2px 3px 2px -2px rgba(0, 79, 149, 0.25);

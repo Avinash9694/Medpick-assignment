@@ -11,7 +11,6 @@
   left:380px;
   width: 646px;
   height: 646px;
-  flex-shrink: 0;
   border-radius: 646px;
   opacity: 0.75;
   background: #FFBE84;
@@ -25,7 +24,6 @@
   left:202px;
   width: 646px;
   height: 646px;
-  flex-shrink: 0;
   border-radius: 646px;
   opacity: 0.5;
   background: var(--secondary, #F78117);
@@ -39,7 +37,6 @@
   left:1047px;
   width: 646px;
   height: 646px;
-  flex-shrink: 0;
   border-radius: 646px;
   opacity: 0.3499999940395355;
   background: var(--primary, #004F95);

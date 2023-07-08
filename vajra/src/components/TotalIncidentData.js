@@ -77,34 +77,3 @@ const TotalIncidentData = () => {
 };
 
 export default TotalIncidentData;
-
-// import {
-//   Chart as ChartJS,
-//   BarElement,
-//   CategoryScale,
-//   LinearScale,
-//   Tooltip,
-//   Legend,
-// } from "chart.js";
-// import { Bar } from "react-chartjs-2";
-// ChartJS.register(BarElement, CategoryScale, LinearScale, Tooltip, Legend);
-
-// function App() {
-//   const data = {
-//     labels: ["Week 1", "Week 2", "Week 3", "Week 4", "Week 5"],
-//     datasets: [
-//       {
-//         label: "",
-//         data: [12, 28, 6, 17, 23],
-//         backgroundColour: "red",
-//       },
-//     ],
-//   };
-//   const options = {};
-//   return (
-//     <div>
-//       <Bar data={data} options={options}></Bar>
-//     </div>
-//   );
-// }
-// export default App;
