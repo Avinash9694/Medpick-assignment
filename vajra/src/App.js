@@ -8,6 +8,7 @@ import IncidentManagement from "./components/IncidentManagement";
 import Departments from "./components/Departments";
 import Calibrated from "./components/Calibrated";
 import Header from "./components/Header";
+
 function App() {
   return (
     <div className="App">
